@@ -1,3 +1,9 @@
 Flight schedule
 __________________
 Zurich - Buenos Aires 20.1.2019 Dep 7.05 PM
+Buenos Aires - Rio de Janeiro 23.1.2019 Dep 8.30 AM
+
+
+Hotel Booking
+_________________
+Buenos Aires Hilton Hotel 20.1.2019 till 23.1.2019
