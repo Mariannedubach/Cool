@@ -2,7 +2,7 @@ Flight schedule
 __________________
 Zurich - Buenos Aires 20.1.2019 Dep 7.05 PM
 Buenos Aires - Rio de Janeiro 23.1.2019 Dep 8.30 AM
-
+Rio de Janeiro - Santiago de Chile 25.1.2019 9 AM
 
 Hotel Booking
 _________________
